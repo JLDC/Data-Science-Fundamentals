@@ -44,6 +44,7 @@ In general, we try to stick to the following notation in the notebooks, however,
 + $x^{(i)}$ the $x$*-value* for the $i^\text{th}$ observation in a set of data points. You will also encounter this superscript on vectors, i.e., $\mathbf{x}^{(i)}$.
 ___
 
-## Notebook links
+## Google Colab links
 
 + [00_introduction-to-python](https://colab.research.google.com/github/JLDC/Data-Science-Fundamentals/blob/master/notebooks/00_introduction-to-python.ipynb)
++ [01_data-pre-processing](https://colab.research.google.com/github/JLDC/Data-Science-Fundamentals/blob/master/notebooks/01_data-pre-processing.ipynb)
