@@ -1,0 +1,22 @@
+student,variable,value
+Johann Friedrich,gpa,6.0
+Florence,gpa,5.5
+Gertrude,gpa,4.5
+Ronald,gpa,4.0
+Janet,gpa,5.0
+Leonhard,gpa,6.0
+Sofya,gpa,5.5
+Johann Friedrich,track,Econ
+Florence,track,Business
+Gertrude,track,Econ
+Ronald,track,Law
+Janet,track,Econ
+Leonhard,track,CS
+Sofya,track,Law
+Johann Friedrich,semester,3
+Florence,semester,4
+Gertrude,semester,3
+Ronald,semester,3
+Janet,semester,5
+Leonhard,semester,5
+Sofya,semester,3
