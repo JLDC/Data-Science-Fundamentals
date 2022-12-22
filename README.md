@@ -50,8 +50,11 @@ ___
 + [01_data-pre-processing](https://colab.research.google.com/github/JLDC/Data-Science-Fundamentals/blob/master/notebooks/01_data-pre-processing.ipynb)
 + [02_data-visualization](https://colab.research.google.com/github/JLDC/Data-Science-Fundamentals/blob/master/notebooks/02_data-visualization.ipynb)
 + [03_dicts-and-loops](https://colab.research.google.com/github/JLDC/Data-Science-Fundamentals/blob/master/notebooks/03_dicts-and-loops.ipynb)
-+ [04_numpy-random-numbers](https://colab.research.google.com/github/JLDC/Data-Science-Fundamentals/blob/master/notebooks/06_dicts-and-loops.ipynb)
++ [04_numpy-random-numbers](https://colab.research.google.com/github/JLDC/Data-Science-Fundamentals/blob/master/notebooks/04_numpy-random-numbers.ipynb)
 + [05_exchange-rate-data](https://colab.research.google.com/github/JLDC/Data-Science-Fundamentals/blob/master/notebooks/05_exchange-rate-data.ipynb)
 + [06_long-wide-data-formats](https://colab.research.google.com/github/JLDC/Data-Science-Fundamentals/blob/master/notebooks/06_long-wide-data-formats.ipynb)
 + [07_joins-and-merges](https://colab.research.google.com/github/JLDC/Data-Science-Fundamentals/blob/master/notebooks/07_joins-and-merges.ipynb)
 + [08_linear-regression-varia](https://colab.research.google.com/github/JLDC/Data-Science-Fundamentals/blob/master/notebooks/08_linear-regression-varia.ipynb)
++ [09_functions](https://colab.research.google.com/github/JLDC/Data-Science-Fundamentals/blob/master/notebooks/09_functions.ipynb)
++ [10_string-manipulation]
++ [11_vectorization]
