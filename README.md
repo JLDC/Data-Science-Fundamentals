@@ -52,3 +52,4 @@ ___
 + [03_dicts-and-loops](https://colab.research.google.com/github/JLDC/Data-Science-Fundamentals/blob/master/notebooks/03_dicts-and-loops.ipynb)
 + [04_numpy-random-numbers](https://colab.research.google.com/github/JLDC/Data-Science-Fundamentals/blob/master/notebooks/03_dicts-and-loops.ipynb)
 + [05_joins-and-merges](https://colab.research.google.com/github/JLDC/Data-Science-Fundamentals/blob/master/notebooks/05_joins-and-merges.ipynb)
++ [06_linear-regression-varia](https://colab.research.google.com/github/JLDC/Data-Science-Fundamentals/blob/master/notebooks/06_linear-regression-varia.ipynb)
