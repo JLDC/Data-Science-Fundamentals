@@ -12,7 +12,7 @@ Before we explain the notation, we would like to state the most important thing 
 
 You can freely modify the notebooks and try things out. **Do it.** There is a well-known adage that states
 
-***I hear, I know. I see, I remember, I do, I understand.***
+***I hear, I know. I see, I remember. I do, I understand.***
 We are firm believers in this mantra. You could simply go through the notebooks and run the code, but you would only learn half as much. Try changing things and adding your custom code. You will run into errors, and that is okay. You will also improve, and in no time, you will become quite good at programming and data science. So do yourself a favor, and try to get your hands dirty as much as possible!
 
 ***
@@ -75,7 +75,7 @@ ___
 + [201_lin-transforms]
 + [202_lin-transforms-SVD]
 + [203_svd-pca](https://colab.research.google.com/github/JLDC/Data-Science-Fundamentals/blob/master/notebooks/203_svd-pca.ipynb)
-+ [204_clustering]
++ [204_clustering](https://colab.research.google.com/github/JLDC/Data-Science-Fundamentals/blob/master/notebooks/204-clustering.ipynb)
 + [205_my-own-neural-network-1](https://colab.research.google.com/github/JLDC/Data-Science-Fundamentals/blob/master/notebooks/205-my-own-neural-network-1.ipynb)
 + [206_my-own-neural-network-2](https://colab.research.google.com/github/JLDC/Data-Science-Fundamentals/blob/master/notebooks/206-my-own-neural-network-2.ipynb)
 + [207_neural-networks-in-sklearn](https://colab.research.google.com/github/JLDC/Data-Science-Fundamentals/blob/master/notebooks/207_neural-networks-in-sklearn.ipynb)
