@@ -58,4 +58,7 @@ ___
 + [009_functions](https://colab.research.google.com/github/JLDC/Data-Science-Fundamentals/blob/master/notebooks/09_functions.ipynb)
 + [010_string-manipulation](https://colab.research.google.com/github/JLDC/Data-Science-Fundamentals/blob/master/notebooks/10_string-manipulation.ipynb)
 + [011_vectorization](https://colab.research.google.com/github/JLDC/Data-Science-Fundamentals/blob/master/notebooks/11_vectorization.ipynb)
-+ [101_iris-perceptron](
++ [101_iris-perceptron](https://colab.research.google.com/github/JLDC/Data-Science-Fundamentals/blob/master/notebooks/101_iris-perceptron.ipynb)
++ [102_wdbc-perceptron](https://colab.research.google.com/github/JLDC/Data-Science-Fundamentals/blob/master/notebooks/102_wdbc-perceptron.ipynb)
++ [103_wdbc-perceptron-standardized](https://colab.research.google.com/github/JLDC/Data-Science-Fundamentals/blob/master/notebooks/103_wdbc-perceptron-standardized.ipynb)
++ [104_viz-mse](https://colab.research.google.com/github/JLDC/Data-Science-Fundamentals/blob/master/notebooks/104_viz-mse.ipynb)
