@@ -68,14 +68,14 @@ ___
 + [105_wdbc-sgd](https://colab.research.google.com/github/JLDC/Data-Science-Fundamentals/blob/master/notebooks/105_wdbc-sgd.ipynb)
 + [106_ols-train-test-cv](https://colab.research.google.com/github/JLDC/Data-Science-Fundamentals/blob/master/notebooks/106_ols-train-test-cv.ipynb)
 + [107_logistic-regression-roc](https://colab.research.google.com/github/JLDC/Data-Science-Fundamentals/blob/master/notebooks/107_logistic-regression-roc.ipynb)
-+ [108_decision-trees](https://colab.research.google.com/github/JLDC/Data-Science-Fundamentals/blob/master/notebooks/107_logistic-regression-roc.ipynb)
++ [108_decision-trees](https://colab.research.google.com/github/JLDC/Data-Science-Fundamentals/blob/master/notebooks/108_decision-trees.ipynb)
 + [109_random-forests](https://colab.research.google.com/github/JLDC/Data-Science-Fundamentals/blob/master/notebooks/109_random-forests.ipynb)
 
 ### Bootcamp: week 2
 + [201_lin-transforms]
 + [202_lin-transforms-SVD]
 + [203_svd-pca](https://colab.research.google.com/github/JLDC/Data-Science-Fundamentals/blob/master/notebooks/203_svd-pca.ipynb)
-+ [204_clustering](https://colab.research.google.com/github/JLDC/Data-Science-Fundamentals/blob/master/notebooks/204-clustering.ipynb)
-+ [205_my-own-neural-network-1](https://colab.research.google.com/github/JLDC/Data-Science-Fundamentals/blob/master/notebooks/205-my-own-neural-network-1.ipynb)
-+ [206_my-own-neural-network-2](https://colab.research.google.com/github/JLDC/Data-Science-Fundamentals/blob/master/notebooks/206-my-own-neural-network-2.ipynb)
++ [204_clustering](https://colab.research.google.com/github/JLDC/Data-Science-Fundamentals/blob/master/notebooks/204_clustering.ipynb)
++ [205_my-own-neural-network-1](https://colab.research.google.com/github/JLDC/Data-Science-Fundamentals/blob/master/notebooks/205_my-own-neural-network-1.ipynb)
++ [206_my-own-neural-network-2](https://colab.research.google.com/github/JLDC/Data-Science-Fundamentals/blob/master/notebooks/206_my-own-neural-network-2.ipynb)
 + [207_neural-networks-in-sklearn](https://colab.research.google.com/github/JLDC/Data-Science-Fundamentals/blob/master/notebooks/207_neural-networks-in-sklearn.ipynb)
