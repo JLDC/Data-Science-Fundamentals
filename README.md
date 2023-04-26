@@ -47,6 +47,8 @@ ___
 
 ## Google Colab links
 
++ [Trial Lecture](https://colab.research.google.com/github/JLDC/Data-Science-Fundamentals/blob/master/notebooks/999_trial-lecture.ipynb")
+
 ### Introductory notebooks
 + [000_introduction-to-python](https://colab.research.google.com/github/JLDC/Data-Science-Fundamentals/blob/master/notebooks/000_introduction-to-python.ipynb)
 + [001_data-pre-processing](https://colab.research.google.com/github/JLDC/Data-Science-Fundamentals/blob/master/notebooks/001_data-pre-processing.ipynb)
